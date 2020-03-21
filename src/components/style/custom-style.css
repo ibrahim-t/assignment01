@@ -1,0 +1,28 @@
+#root-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.detail-container{
+    width:25%;
+     border:2px solid;
+     box-shadow: 2px 2px;
+     margin: 10px;
+}
+.header-section{
+background-color: deepskyblue;
+}
+.button-align{
+float: right;
+}
+.expandable-container{
+    display: flex;
+}
+.header-container{
+margin-left: 15px;
+}
+.image-section{
+    width:70%;
+    height:70%;
+     margin:15px;
+}
